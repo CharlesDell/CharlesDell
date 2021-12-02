@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my  Research papers are available at **[My Research]()** -->
 
-- 📫 How to reach me **cdellorto@brex.com**
+- 📫 How to reach me ****
 
 <!-- - ⚡  **Actively seeking Summer internships in Software Development and Data Science.** -->
 
