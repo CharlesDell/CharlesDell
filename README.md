@@ -5,7 +5,7 @@
   <img align="center" width="32" src="https://cdn.cdnlogo.com/logos/g/50/google-stadia.svg">
 </h3>
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[]()** -->
 
@@ -19,7 +19,7 @@
 
 <!-- - ⚡  **Actively seeking ...** -->
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
 Stats | Streak
 :-:|:-:
