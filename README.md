@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
-<h2 align="center">
+<h3 align="center">
   I'm a Software Engineer working @ 
   <img align="center" width="24" src="https://cdn.cdnlogo.com/logos/g/35/google-icon.svg">
   <img align="center" width="32" src="https://cdn.cdnlogo.com/logos/g/50/google-stadia.svg">
-</h2>
+</h3>
 
 ## 🙋‍♂️ About Me
 
