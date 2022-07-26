@@ -1,12 +1,5 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<style>
-ghstats {
-  display: flex;
-  flex-direction: column;
-}
-</style>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
 <h2 align="center">I'm a Software Engineer working @ Google<img src=""/></h3>
 
@@ -31,10 +24,10 @@ ghstats {
 
 <br/>
 
-<ghstats>
+<div style="display:flex;flex-direction:column;">
   <img alt="Charles Dell'Orto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesdell&show_icons=true&count_private=true&theme=tokyonight&hide_border=&stroke=0000&background=060A0CD0" />
 
   <br/>
 
   <img alt="Charles Dell'Orto's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesdell&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
-</ghstats>
+</div>
