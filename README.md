@@ -22,12 +22,5 @@
 
 ## 📊 My Github Stats
 
-<br/>
-
-<div align="center">
-  <img alt="Charles Dell'Orto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesdell&show_icons=true&count_private=true&theme=tokyonight&hide_border=&stroke=0000&background=060A0CD0" />
-
-  <br/>
-
-  <img alt="Charles Dell'Orto's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=charlesdell&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
-</div>
+![charlesdell's github stats](https://github-readme-stats.vercel.app/api?username=charlesdell&show_icons=true&count_private=true&theme=tokyonight&hide_border=&stroke=0000&background=060A0CD0) | ![charlesdell's github streak](https://github-readme-streak-stats.herokuapp.com/?user=charlesdell&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
+:-:|:-:
