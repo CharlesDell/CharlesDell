@@ -1,30 +1,30 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Charles</h1>
-<h2 align="center">I'm a Software Engineer working @ Google<img src=""/></h3>
+<h2 align="center">
+  I'm a Software Engineer working @ 
+  <img align="center" width="24" src="https://cdn.cdnlogo.com/logos/g/35/google-icon.svg">
+  <img align="center" width="32" src="https://cdn.cdnlogo.com/logos/g/50/google-stadia.svg">
+</h2>
 
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Explainaible AI](https://github.com/takhilabhinav/Explainable-Ai)** -->
+<!-- - 🔭 I’m currently working on **[]()** -->
 
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my  Research papers are available at **[My Research]()** -->
+<!-- - 👨‍💻 All of my  Research papers are available at **[]()** -->
 
 - 📫 Reach out to me on LinkedIn @ **[/charlesdell](https://www.linkedin.com/in/charlesdell/)**
 
-<!-- - ⚡  **Actively seeking Summer internships in Software Development and Data Science.** -->
-
-#
+<!-- - ⚡  **Actively seeking ...** -->
 
 ## 📊 My Github Stats
 
 <br/>
 
-<div style="display:flex;flex-direction:column;">
+<div align="center">
   <img alt="Charles Dell'Orto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=charlesdell&show_icons=true&count_private=true&theme=tokyonight&hide_border=&stroke=0000&background=060A0CD0" />
 
   <br/>
